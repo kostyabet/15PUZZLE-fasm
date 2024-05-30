@@ -1,0 +1,1 @@
+blIsComplete   dw      0

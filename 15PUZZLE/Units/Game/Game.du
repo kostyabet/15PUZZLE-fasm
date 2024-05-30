@@ -1,0 +1,4 @@
+; info about buttons
+; 15 * 2 elements
+; ordinal number (1..16), meaning (1..15)
+buttons        db       32 dup(?)
