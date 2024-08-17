@@ -1,0 +1,8 @@
+﻿# temp Rider files
+.idea/
+
+# setup file
+*.com
+
+# file for fasm settings
+PROC16.INC
